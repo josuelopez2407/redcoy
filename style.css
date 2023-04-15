@@ -1,0 +1,40 @@
+img{
+    width: 250px;
+    border: 10px  solid  #FFFFFF;
+    padding: 10px;
+    margin: 20px;
+}
+a{
+    display: block;
+    width: 110px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    background-color: rgb(21, 56, 171);
+    border-radius: 10px;
+    padding: 15px 25px;
+    text-decoration: none;
+    
+
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color:blanchedalmond;
+}
+a:hover{
+    color:brown;
+}
+a:active{
+    color: rgb(204, 255, 0);
+
+}
+p{
+    color:  #FFFFFF;
+}
+h1{
+    color: blanchedalmond;
+}
+h3{
+    color: blanchedalmond;
+}
